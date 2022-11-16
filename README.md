@@ -9,4 +9,5 @@
 
 # Визуальная часть приложения:
 ![photo_2022-11-16_23-16-16](https://user-images.githubusercontent.com/106300285/202239776-c2b17ebc-5022-4ea0-a636-7463229014e2.jpg)
+#
 ![22](https://user-images.githubusercontent.com/106300285/202238345-22308a9a-cda6-4f45-a853-e492dfbece06.jpg)
