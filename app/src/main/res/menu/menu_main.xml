@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/action1" android:title="@string/del" />
+    <item android:id="@+id/action2" android:title="@string/sort" />
+    <item android:id="@+id/action3" android:title="@string/regenerate" />
+</menu>

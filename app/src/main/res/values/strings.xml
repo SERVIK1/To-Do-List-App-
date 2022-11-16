@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">To-Do List</string>
+    <string name="plus">+</string>
+    <string name="text_add">Введите новую задачу: </string>
+    <string name="hint">Купить продукты</string>
+    <string name="del">Удалить выбранные</string>
+    <string name="sort">Отсортировать</string>
+    <string name="regenerate">Восстановить удалённые</string>
+</resources>
